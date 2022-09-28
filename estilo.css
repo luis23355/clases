@@ -194,7 +194,7 @@ main .part2 .part2_5 .was{
     height: 100px;
     color: var(--dark-color);
     padding: 100px;
-    background-color: aqua;
+    
     top: 0;
     width: 100%;
     height:400px ;
@@ -216,10 +216,18 @@ background-color: rebeccapurple;
 main .part2 .part2_5 .was h2{
     display: inline-block;
     position: relative;
+    font-size: 45px;
     
 
 }
 main .part2 .part2_5 .was {
-    left: 500px;
-
+    left: 100px;
+}
+main .part2 .part2_5 .was .covid19{
+    display: block;
+    position: relative;
+    padding: 10px;
+    
+    
+    background-color: #eb5757;
 }
